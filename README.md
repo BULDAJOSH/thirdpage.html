@@ -104,7 +104,98 @@
 
 
 
+<html>
+<head>
+    <title>Beyond The Limit - Shorts</title>
+</head>
 
+<body bgcolor="lavender">
+
+<center>
+    <h1><font color="indigo" size="6">🩳 SHORTS COLLECTION 🩳</font></h1>
+    <p><font color="purple"><b>BEYOND THE LIMIT</b></font></p>
+    <hr width="60%">
+</center>
+
+<center>
+<table border="1" cellpadding="15" bgcolor="white">
+
+<tr>
+    
+    <td align="center">
+        <img src="https://neweracap.ph/cdn/shop/files/14148834_01064834_grab_5.jpg?v=1716628262&width=2000" width="200" height="250"><br><br>
+        <font color="indigo"><b>Sport Shorts</b></font><br>
+        <font color="green">₱350</font><br><br>
+
+        <select>
+            <option>SELECT SIZE</option>
+            <option>S</option>
+            <option>M</option>
+            <option>L</option>
+            <option>XL</option>
+        </select><br><br>
+
+        <button onclick="alert('Added to cart!')">🛒 Add to Cart</button>
+        <br>
+        <br>
+        <button onclick="alert('Thank you for your purchase')">🛒 Buy Now!</button>
+    </td>
+
+    
+    <td align="center">
+        <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR3TT2mUoedZOGHgJrrfeHxLgDjpDurG_XHRVWjHESVfXzK43BlSQkio-0zSOUPOMVgOaYc2rx-ZE46q7pZ5eBxc2MDOfJIx__nKXKkGIxu97RFQZhWwIt2VdM" width="200" height="200"><br><br>
+        <font color="indigo"><b>Casual Shorts</b></font><br>
+        <font color="green">₱380</font><br><br>
+
+        <select>
+            <option>SELECT SIZE</option>
+            <option>S</option>
+            <option>M</option>
+            <option>L</option>
+            <option>XL</option>
+        </select><br><br>
+
+        <button onclick="alert('Added to cart!')">🛒 Add to Cart</button>
+        <br>
+        <br>
+        <button onclick="alert('Thank you for your purchase')">🛒 Buy Now!</button>
+    </td>
+
+    
+    <td align="center">
+        <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO1E_Mk3_jDxvoQ9pcmmq1ZfiO-1uuzGJKC1DTVcVmYQObE0e87yU-gwTSB3RuMjSs5fJYK_stfWxJZJwn4IeivD523df1jLNkXYY1e5oloSvnoYY_gqQIBQ" width="200" height="250"><br><br>
+        <font color="indigo"><b>Training Shorts</b></font><br>
+        <font color="green">₱400</font><br><br>
+
+        <select>
+            <option>SELECT SIZE</option>
+            <option>S</option>
+            <option>M</option>
+            <option>L</option>
+            <option>XL</option>
+        </select><br><br>
+
+        <button onclick="alert('Added to cart!')">🛒 Add to Cart</button>
+        <br>
+        <br>
+        <button onclick="alert('Thank you for your purchase')">🛒 Buy Now!</button>
+</tr>
+
+</table>
+</center>
+
+<br><br>
+
+<center>
+    <hr width="50%">
+    <font color="gray">© 2026 BEYOND THE LIMIT</font><br>
+      <font color="gray">contact us: beyondthelimit@gmail.com</font><br>
+      <font color="gray">Made in The Philippines</font><br>
+      <font color="gray">Owned by Josh Winlance Bulda</font><br>
+</center>
+
+</body>
+</html>
 
 
 
